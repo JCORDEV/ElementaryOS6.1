@@ -3,4 +3,8 @@ El sistema está desarrollado sobre Ubuntu,​ e incluye componentes propios com
 
 
 
-![Texto](../Instalacion/1.png "jj")
+![Lenguaje](/img/Instalacion/1.png)
+![Texto](/img/Instalacion/2.png)
+![Texto](/img/Instalacion/3.png)
+![Texto](/img/Instalacion/4.png)
+![Texto](/img/Instalacion/5.png)
